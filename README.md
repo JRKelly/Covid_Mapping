@@ -1,2 +1,1 @@
-# Covid_Mapping
-Keeping track of scripts for YSM COVID Mapping project
+Keeping scripts I may want pieces of later.
